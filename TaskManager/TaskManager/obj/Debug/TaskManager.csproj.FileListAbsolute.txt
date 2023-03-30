@@ -1,0 +1,17 @@
+C:\Users\thiag\source\repos\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\thiag\source\repos\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\thiag\source\repos\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\thiag\source\repos\TaskManager\TaskManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thiag\source\repos\TaskManager\TaskManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thiag\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.AssemblyReference.cache
+C:\Users\thiag\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\thiag\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.Forms.FrmTarefas.resources
+C:\Users\thiag\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.FrmMenu.resources
+C:\Users\thiag\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+C:\Users\thiag\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+C:\Users\thiag\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CopyComplete
+C:\Users\thiag\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\thiag\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\thiag\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.Forms.FrmAddTarefa.resources
+C:\Users\thiag\source\repos\TaskManager\TaskManager\obj\Debug\TaskManager.Forms.FrmAttUsuario.resources
